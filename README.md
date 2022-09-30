@@ -77,7 +77,7 @@ Kind of scoring meanings:
   + Harm can be wended by the next scoring to speak about
 - L is luck, and is the how likely it is to do 25% more harm
 
-In the likeness above, I've just made a twin for each scorign, but in truly, they will be unalike.
+In the likeness above, I've just made a twin for each scoring, but in truly, they will be unalike.
 
 Where do they come from then?
 
