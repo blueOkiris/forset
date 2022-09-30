@@ -1,10 +1,10 @@
 [package]
-name = "forset-server"
+name = "forset_server"
 version = "1.0.0"
 edition = "2021"
 
 [[bin]]
-name = "forset-server"
+name = "forset_server"
 path = "src/main.rs"
 
 [dependencies]
