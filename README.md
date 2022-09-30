@@ -42,7 +42,7 @@ First, each player will start with 5 tokens:
 ╚══════════════════════╝
 ```
 
-Twoth, each token has errand-playing game scoring:
+Twoth, each token has errand-playing game scorings:
 
 ```
 ╔══════════════════════╗    player1.email@whatever.com:
