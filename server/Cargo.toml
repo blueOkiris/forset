@@ -1,0 +1,22 @@
+[package]
+name = "forset-server"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "forset-server"
+path = "src/main.rs"
+
+[dependencies]
+rocket = "0.5.0-rc.2"
+mongodb = "2.1.0"
+reqwest = "0.11.9"
+rand = "0.8.5"
+tokio = "1.17.0"
+serde = { version = "1.0", features = [ "derive" ] }
+lettre = "0.9"
+lettre_email = "0.9"
+tokio-util = "0.7.3"
+bytes = "1.1.0"
+clap = { version = "4.0.2", features = [ "cargo" ] }
+

@@ -1,0 +1,16 @@
+[package]
+name = "forset"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "forset"
+path = "src/main.rs"
+
+[dependencies]
+termion = "1.5.6"
+rand = "0.8.4"
+serde = { version = "1.0", features = [ "derive" ] }
+serde_json = "1.0.85"
+reqwest = "0.11.12"
+
