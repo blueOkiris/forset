@@ -6,7 +6,7 @@ A Web-wielding, many-player, turn-based thinking game that runs at the bidding l
 
 ## What's in a name?
 
-"Forset" is not a widespread word in English, but it is in English, and roughly means "strategem," a Frankish word.
+"Forset" is not a widespread word in English, but it is __in__ English, and roughly means "strategem," a Frankish word.
 
 Why not "strategem" though?
 
