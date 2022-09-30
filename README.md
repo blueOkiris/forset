@@ -64,13 +64,13 @@ Kind of scoring meanings:
 - H is health which is, well, health. When it goes to naught, your token dies.
 - K is weapon kind. This settles how the token plays with other tokens as well as its shifting and reach.
   1. Sword and Shield Fighters (SF) have the high ground in strength and warding over Hammerists (HM) which have it over Spear-men (SM) who have it over Sword and Shield Fighters
-    - All are unsided against spell-crafting tokens
-    - All are tussling short-reach tokens
+     - All are unsided against spell-crafting tokens
+     - All are tussling short-reach tokens
   2. As for spell-crafting tokens, Fire Warlocks have high ground over Earth Witches which have it over Water Whisperers which have it over Fire Warlocks.
-    - All are unsided against the tussling tokens
-    - Earth Witches have the shortest reach, but the highest shifting
-    - Fire Warlocks have the highest reach, but the shortest shifting
-    - Water Whisperers have even reach and shifting
+     - All are unsided against the tussling tokens
+     - Earth Witches have the shortest reach, but the highest shifting
+     - Fire Warlocks have the highest reach, but the shortest shifting
+     - Water Whisperers have even reach and shifting
   3. Bowmen have bigger reach like the spell-crafting tokens, but are unsided against both tussling and spell-crafting tokens. They have reach and shifting alike that of Water Whisperers.
 - S is strength which is how much root harm you do to an opponent. W is warding which is how much a token can shield against harm. When a token besets upon another, you more or less do health -= harm - defense.
   + Note: warding can be wended by kind drawbacks as spoken about before
